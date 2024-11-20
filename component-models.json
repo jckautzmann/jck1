@@ -20,7 +20,7 @@
           {
             "component": "richtext",
             "name": "abstract",
-            "label": "Absrtact",
+            "label": "Abstract",
             "description": "Enter an abstract for site search"
           },
           {
